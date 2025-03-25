@@ -1,5 +1,7 @@
  # EFL-IDS
 
+ ## Please make sure to give credits to the article below when using this work. Thank you !
+
 @inproceedings{adjewa2024efficient,
   title={Efficient federated intrusion detection in 5g ecosystem using optimized bert-based model},
   author={Adjewa, Frederic and Esseghir, Moez and Merghem-Boulahia, Leila},
